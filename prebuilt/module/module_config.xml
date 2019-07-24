@@ -2,8 +2,8 @@
 <XMLConfigSettings>
   <BaseSettings>
     <ModuleNum>1</ModuleNum>
-    <ModuleName1>ReportOnceSample</ModuleName1>
-    <ModulePath1>\module\ReportOnceSample.dll</ModulePath1>
+    <ModuleName1>HandlerSample</ModuleName1>
+    <ModulePath1>\module\HandlerSample.dll</ModulePath1>
     <ModuleEnable1>TRUE</ModuleEnable1>
   </BaseSettings>
 </XMLConfigSettings>

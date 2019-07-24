@@ -19,10 +19,10 @@
     <PSKCiphers/>
   <AutoStart>True</AutoStart></BaseSettings>
   <Profiles>
-    <DeviceName>TextHandler</DeviceName>
-    <DevID>TextHandler</DevID>
+    <DeviceName>HandlerSample</DeviceName>
+    <DevID>HandlerSample</DevID>
     <SWProduct>RMM</SWProduct>
-    <SN>TextHandler</SN>
+    <SN>HandlerSample</SN>
     <DevType>Service</DevType>
     <WorkDir></WorkDir>
     <SWVersion>1.2.0.0</SWVersion>
@@ -38,7 +38,7 @@
     <KVMMode>default</KVMMode>
     <CustVNCPwd>na</CustVNCPwd>
     <CustVNCPort>5904</CustVNCPort>
-    <ServiceName>Agent_TextHandler</ServiceName>
+    <ServiceName>Agent_HandlerSample</ServiceName>
     <WatchdogCommID>1</WatchdogCommID>
     <WOL>TRUE</WOL>
     <Shutdown>TRUE</Shutdown>
